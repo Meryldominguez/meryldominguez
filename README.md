@@ -12,10 +12,10 @@ Hi! My name is Meryl and I am an Opera Singer and Dev currently living in Minnea
 
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryldominguez&count_private=true&bg_color=DEG,#1f4037,#99f2c8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryldominguez&count_private=true&bg_color=DEG,1f4037,99f2c8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=meryldominguez)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=meryldominguez)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
