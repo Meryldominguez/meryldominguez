@@ -5,6 +5,7 @@ Hi! My name is Meryl and I am an Opera Singer and Dev currently living in Minnea
 - 📫 How to reach me:
   
 [![email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryldominguez@gmail.com)
+[![connect on linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meryldominguez)
 
 - 🔭 I’m currently working on:
   
