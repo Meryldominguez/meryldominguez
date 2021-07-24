@@ -4,11 +4,10 @@ Hi! My name is Meryl and I am an Opera Singer and Dev currently living in Minnea
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me:
   
-[![email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryldominguez@gmail.com)
-[![connect on linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meryldominguez)
+    [![email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryldominguez@gmail.com)
+    [![connect on linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meryldominguez)
 
 - 🔭 I’m currently working on:
-  
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meryldominguez&repo=proprly&theme=vue-dark&bg_color=DEG,1f4037,99f2c8)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,7 +20,7 @@ Hi! My name is Meryl and I am an Opera Singer and Dev currently living in Minnea
 
 - ⚡ Fun fact: ...
 
-[![Meryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryldominguez&count_private=true&theme=vue-dark&bg_color=DEG,1f4037,99f2c8&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+    [![Meryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryldominguez&count_private=true&theme=vue-dark&bg_color=DEG,1f4037,99f2c8&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
